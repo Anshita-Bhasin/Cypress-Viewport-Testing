@@ -1,0 +1,25 @@
+{
+  "name": "cypress-viewport-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anshita-Bhasin/Cypress-Viewport-Testing.git"
+  },
+  "author": "Anshita Bhasin <anshita@propertyfinder.ae>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anshita-Bhasin/Cypress-Viewport-Testing/issues"
+  },
+  "homepage": "https://github.com/Anshita-Bhasin/Cypress-Viewport-Testing#readme",
+  "devDependencies": {
+    "cypress": "^12.16.0"
+  },
+  "dependencies": {
+    "lambdatest-cypress-cli": "^3.0.15"
+  }
+}
