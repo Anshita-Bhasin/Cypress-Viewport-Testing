@@ -60,7 +60,8 @@ Example:
  (8). Testing Viewport Using Environment Variables
 
     
-    <img width="372" alt="image" src="https://github.com/Anshita-Bhasin/Cypress-Viewport-Testing/assets/10338077/f4d8ab12-f5ae-4e47-ad75-fc88375d254f">
+<img width="372" alt="image" src="https://github.com/Anshita-Bhasin/Cypress-Viewport-Testing/assets/10338077/544b941f-1db7-4ace-b4db-3f125a522443">
+
 
 
 
