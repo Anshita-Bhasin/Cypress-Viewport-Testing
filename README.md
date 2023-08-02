@@ -12,14 +12,19 @@ Testing responsiveness of the web application.
 
 <img width="645" alt="image" src="https://github.com/Anshita-Bhasin/Cypress-Viewport-Testing/assets/10338077/c786723e-0aef-4791-b7bf-6e0c46874f91">
 
-Example:
-![image](https://github.com/Anshita-Bhasin/Cypress-Viewport-Testing/assets/10338077/bb59b57d-8f6d-46a9-943c-b74780489537)
 
 
 
 (2) Testing viewport by passing presets
 
 <img width="348" alt="image" src="https://github.com/Anshita-Bhasin/Cypress-Viewport-Testing/assets/10338077/dbf35b35-332d-4961-b133-5d8b48db2bf0">
+
+
+Example:
+
+<img width="334" alt="image" src="https://github.com/Anshita-Bhasin/Cypress-Viewport-Testing/assets/10338077/22ba7847-de83-41fa-8acb-f9d062b8dd17">
+
+
 
 
 (3) Testing viewports by passing orientation
@@ -43,14 +48,20 @@ Example:
 
 
 (7). Override Viewport Options At the Run Time 
-     Sample Command : npx cypress run --browser chrome --config viewportWidth=1280,viewportHeight=720
+
+     Sample Command : 
+     
+     
+     npx cypress run --browser chrome --config viewportWidth=1280,viewportHeight=720
 
      PS - You can change the viewport width and height as per your requirement
 
 
  (8). Testing Viewport Using Environment Variables
 
-    ![Uploading image.png…]()
+    
+    <img width="372" alt="image" src="https://github.com/Anshita-Bhasin/Cypress-Viewport-Testing/assets/10338077/f4d8ab12-f5ae-4e47-ad75-fc88375d254f">
+
 
 
 
